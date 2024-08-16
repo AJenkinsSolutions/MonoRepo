@@ -1,0 +1,5 @@
+plugins {
+  id 'base'
+}
+
+// This is an Angular project, so we don't need any Java-specific tasks
